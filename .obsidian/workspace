@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "d0dfe2e122802c71",
+    "type": "split",
+    "children": [
+      {
+        "id": "04c5e7ad640b4260",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "15230f1a834e64ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f33329d696623c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8ca6dd4ae6328c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c20753682809836d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#GDP",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "de38b64b593d40c2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8df9790ccd6a83b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e509f78af72ca67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52959dacc78adfb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6b8f15370051ebe5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "04c5e7ad640b4260",
+  "lastOpenFiles": [
+    "Notes/Aggregate Demand Curve.md",
+    "Monetary Policy.md",
+    "Money.md",
+    "GDP.md",
+    "Inflation.md",
+    "Does Asset Inflation Matter.md",
+    "Asset Price Inflation.md",
+    "Goods Price Inflation.md",
+    "Consumer Price Index (CPI).md",
+    "GDP deflator.md"
+  ]
+}

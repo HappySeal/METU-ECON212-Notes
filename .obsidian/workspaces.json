@@ -1,0 +1,128 @@
+{
+  "workspaces": {
+    "Courses": {
+      "main": {
+        "id": "d0dfe2e122802c71",
+        "type": "split",
+        "children": [
+          {
+            "id": "ac1a59156f3eed59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Measuring Money.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "203062537517a8bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goals of Monetary Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "15230f1a834e64ab",
+        "type": "split",
+        "children": [
+          {
+            "id": "6f33329d696623c6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e8ca6dd4ae6328c0",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c20753682809836d",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "M1",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "de38b64b593d40c2",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "8df9790ccd6a83b5",
+        "type": "split",
+        "children": [
+          {
+            "id": "3e509f78af72ca67",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "52959dacc78adfb3",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Measuring Money.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "6b8f15370051ebe5",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Measuring Money.md",
+                    "linksCollapsed": true,
+                    "unlinkedCollapsed": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "active": "ac1a59156f3eed59"
+    }
+  },
+  "active": "Courses"
+}
